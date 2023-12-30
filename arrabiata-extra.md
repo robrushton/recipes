@@ -5,7 +5,7 @@
 ## Ingredients
 | Amount | Ingredient |
 |--------|------------|
-| 2 | 28oz San Marzano Whole Peeled Tomatoes (Canned) |
+| 2 Cans | 28oz San Marzano Whole Peeled Tomatoes |
 | 1 | Yellow Onion |
 | 3 Tbsp | Butter (or Olive Oil) |
 | 6 Cloves| Garlic |
