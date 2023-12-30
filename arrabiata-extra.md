@@ -1,6 +1,8 @@
 [Back](https://github.com/robrushton/recipes/blob/main/README.md)
 
-# Ingredients
+# Arrabiata Extra
+
+## Ingredients
 | Amount | Ingredient |
 |--------|------------|
 | 2 | 28oz San Marzano Whole Peeled Tomatoes (Canned) |
@@ -14,12 +16,12 @@
 | 1 Tsp | Salt |
 | 1 Tsp | Black Pepper |
 
-# Prep Work
+## Prep Work
 - Dice Onion
 - Mince Garlic
 - Measure Out Spices
 
-# Instructions
+## Instructions
 1. Melt Butter Over Medium Heat
 2. Saute Red Pepper Flakes - 2 Minutes
 3. Add Diced Onions, Saute - 5 Minutes (or Until Translucent)
