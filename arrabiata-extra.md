@@ -36,4 +36,4 @@
 16. Serve
 
 ## Notes
-I usually pair a batch of sauce with one box of dried pasta and one or two pounds of meat.
+I usually pair a batch of sauce with one box of dried pasta and one or two pounds of meat. My gotos are Italian sausage and ditalini pasta.
