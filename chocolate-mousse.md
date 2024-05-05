@@ -23,4 +23,5 @@
 9. Enjoy!
 
 ## Notes
-Adjust the milk/dark chocolate chip mixture to your liking.
+1. Adjust the milk/dark chocolate chip mixture to your liking.
+2. If you heat up you cream and chocolate mixture too fast, it will start to separate. If this happens, slowy stir and add small amounts of hot water. This can fix the broken emulsion and you may see it become creamy chocolate again.
