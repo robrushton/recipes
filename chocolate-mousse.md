@@ -8,7 +8,7 @@
 | 1 1/2 Cup | Heavy Whipping Cream |
 | 3/4 Cup | Milk Chocolate Chips |
 | 1/4 Cup | Semi-Sweet Chocolate Chips |
-| 1 Tbsp | Powdered Sugar |
+| 2 Tbsp | Powdered Sugar |
 | 1/2 Tsp| Vanilla Extract |
 
 ## Instructions
